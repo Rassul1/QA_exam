@@ -1,0 +1,1 @@
+C:\Users\begen\AppData\Local\Microsoft\WindowsApps\python.exe "D:\SE2\PracticalPart\code.py"
